@@ -1,6 +1,6 @@
 async function fetchHTML() {
     try {
-        const response = await fetch('http://192.168.1.1/', {
+        const response = await fetch('http://192.168.1.4/', {
             mode: 'cors', // Asegúrate de que el servidor permita CORS
         });
         if (!response.ok) throw new Error('Network response was not ok');
