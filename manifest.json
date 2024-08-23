@@ -3,7 +3,7 @@
     "name": "NIO Config Panel",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#ffffff",
+    "background_color": "#000000",
     "description": "Configuration panel NIO",
     "icons": [
         {
