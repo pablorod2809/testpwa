@@ -24,5 +24,5 @@ if ('serviceWorker' in navigator) {
     });
 }
 
-fetchHTML();
+//fetchHTML();
 
