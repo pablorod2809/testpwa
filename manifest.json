@@ -1,13 +1,13 @@
 {
     "short_name": "NIO",
     "name": "NIO Config Panel",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#000000",
     "description": "Configuration panel NIO",
     "icons": [
         {
-            "src": "/icons/icon-192x192.png",
+            "src": "icons/icon-192x192.png",
             "type": "image/png",
             "sizes": "192x192"
         }

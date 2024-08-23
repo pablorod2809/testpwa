@@ -2,7 +2,7 @@ const CACHE_NAME = 'nio-cache-v1';
 const urlsToCache = [
     '/',
     '/index.html',
-    '/js/main.js',
+    '/main.js',
     '/manifest.json'
 ];
 
